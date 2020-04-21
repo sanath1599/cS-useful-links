@@ -46,8 +46,7 @@ This section will contain resources that will help you with your projects, while
 | ------------ | ------------ | ------------ |
 | [Heroku](https://www.heroku.com/ "Heroku")  | A flexible, easy-to-use platform to deploy, run, and manage your apps.  | Free Basic, Free Premium with [Github Student Developer Pack](https://education.github.com/pack "Github Student Developer Pack")  |
 | [Netlify](https://www.netlify.com/ "Netlify")   |  Build, test, and deploy globally with Netlify’s all-in-one platform for modern web projects | Free + Premium  |
-|[Zeit](https://vercel.com/ "Zeit")|Push to deploy and preview. Merge to go live.
-An intuitive workflow that makes collaboration easy with the whole team.|Free + Premium |
+|[Zeit](https://vercel.com/ "Zeit")|Push to deploy and preview. Merge to go live. An intuitive workflow that makes collaboration easy with the whole team.|Free + Premium |
 | [Atlantic](http://atlantic.net "Atlantic")  | Free VPS wtih Block Storage and Snapshot  | Free(12 Months)  |
 | [DigitalOcean](http://digitalocean.com/ "DigitalOcean")  |  Simple cloud hosting, built for developers | Free Premium with [Github Student Developer Pack](https://education.github.com/pack "Github Student Developer Pack") |
 | [Netwise](https://www.netwise.co.uk/ "netwise")  |  Turnkey data centre services for the hosting of critical IT infrastructure systems. | Free Premium with [Github Student Developer Pack](https://education.github.com/pack "Github Student Developer Pack")  |
