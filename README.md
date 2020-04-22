@@ -26,6 +26,19 @@ This section will contain resources that you can use beyond your course to becom
 
 This section will contain resources that will help you with your projects, while most of them are free, some of them might need a premium plan(or freemium)
 
+### Generic Tools
+
+|  Tool/Website | Purpose  |
+| ------------ | ------------ |
+| [TOPOL.io](https://topol.io/ "TOPOL.io")  |  Drag and Drop Email builder with responsive HTML output  |
+| [Stripo](https://stripo.email/ "Stripo")  |  Create professional pure HTML advanced email templates without any HTML skills |
+|  [Keppler](https://brunosimon.github.io/keppler/ "Keppler") | Real-time code sharing for your lectures and presentations |
+|[Editor.md](https://pandao.github.io/editor.md/index.html "Editor.md")   | Open source online Markdown editor  |
+| [Quillbot](https://quillbot.com/ "Quillbot")  | AI Paraphrasing tool to reword your content  |
+
+
+
+
 ### IDE Plugins
 
 | Plugin  | Purpose  | Free/Paid  |
