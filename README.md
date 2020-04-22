@@ -1,7 +1,7 @@
 # Welcome to the *Computer Science Resource Cheatsheet*
 
 This repo has been inspired by the suggestions of Akshay a.k.a[ _axai_](https://github.com/akshayrajp " _axai_")  
-
+[![time tracker](https://wakatime.com/badge/github/sanath1599/cS-useful-links.svg)](https://wakatime.com/badge/github/sanath1599/cS-useful-links) spent so far accumilating these resources for you :fa-heart: 
 ------------
 
 Feel free to contribute to this repo if you come across something cool that is not already mentioned here
