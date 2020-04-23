@@ -19,7 +19,7 @@ This section will contain resources that you can use beyond your course to becom
 | [University Courses](http://www.infocobuild.com/education/audio-video-courses/ "University Courses")  | Sources for open courses from Yale, Stanford, UC Berkeley and more  |
 | [AlgoWiki](https://github.com/vicky002/AlgoWiki "AlgoWiki")  | Repository which contains links and resources on different topics of Computer Science.  |
 | [OSSU](https://github.com/ossu/computer-science "OSSU")  | 🎓 Path to a free self-taught education in Computer Science! |
-
+| [fast.ai](https://www.fast.ai/ "fast.ai")  | Deep Learning MOOC |
 
 
 # Working Resources
@@ -114,3 +114,7 @@ This section will contain resources that will help you with your projects, while
 - [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition): Supplementing textbook for MIT's 6.0001 Introduction to Computer Science course which is open source. This is book teaches Python programming alongside fundamental computer science theories
 
 - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/): A (Free!) book that compiles programming knowledge and principles from the Original Creators of Unix and other prominent people that have worked on Unix, Linux, C, and more. If you want many, many years of programming wisdom concentrated into one book, this is a good one to pick.
+
+- [Mathematics for Machine Learning](https://mml-book.github.io/): A free book that teaches basic and advanced mathematical concepts required to write Machine Learning Algorithms.
+
+- [Deep Learning](https://www.deeplearningbook.org/): A nice resource for people entering the field of ML and Deep Learning in particular. ALso has some ML Math.
