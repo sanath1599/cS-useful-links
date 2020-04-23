@@ -1,7 +1,7 @@
 # Welcome to the *Computer Science Resource Cheatsheet*
 
 This repo has been inspired by the suggestions of Akshay a.k.a[ _axai_](https://github.com/akshayrajp " _axai_")  
-[![time tracker](https://wakatime.com/badge/github/sanath1599/cS-useful-links.svg)](https://wakatime.com/badge/github/sanath1599/cS-useful-links) spent so far accumilating these resources for you :heart: 
+[![time tracker](https://wakatime.com/badge/github/sanath1599/cS-useful-links.svg)](https://wakatime.com/badge/github/sanath1599/cS-useful-links) spent so far accumilating these resources for you :fa-heart: 
 ------------
 
 Feel free to contribute to this repo if you come across something cool that is not already mentioned here
@@ -35,6 +35,7 @@ This section will contain resources that will help you with your projects, while
 |  [Keppler](https://brunosimon.github.io/keppler/ "Keppler") | Real-time code sharing for your lectures and presentations |
 |[Editor.md](https://pandao.github.io/editor.md/index.html "Editor.md")   | Open source online Markdown editor  |
 | [Quillbot](https://quillbot.com/ "Quillbot")  | AI Paraphrasing tool to reword your content  |
+| [Terminus](https://eugeny.github.io/terminus/ "Terminus") | Simple but beautiful teminal application with native SSH support |
 
 
 
