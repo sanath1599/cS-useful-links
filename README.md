@@ -36,7 +36,8 @@ This section will contain resources that will help you with your projects, while
 |[Editor.md](https://pandao.github.io/editor.md/index.html "Editor.md")   | Open source online Markdown editor  |
 | [Quillbot](https://quillbot.com/ "Quillbot")  | AI Paraphrasing tool to reword your content  |
 | [Terminus](https://eugeny.github.io/terminus/ "Terminus") | Simple but beautiful teminal application with native SSH support |
-
+|[Goorm IDE](https://ide.goorm.io/ "Goorm IDE" ) | goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams. |
+|[Swagger](https://swagger.io/ "Swagger Tools") | Test and Document Your APIs With Ease |
 
 
 
