@@ -38,7 +38,7 @@ This section will contain resources that will help you with your projects, while
 | [Terminus](https://eugeny.github.io/terminus/ "Terminus") | Simple but beautiful teminal application with native SSH support |
 |[Goorm IDE](https://ide.goorm.io/ "Goorm IDE" ) | goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams. |
 |[Swagger](https://swagger.io/ "Swagger Tools") | Test and Document Your APIs With Ease |
-
+|[Kodular](https://www.kodular.io/ "Kodular") |Create Android Apps without coding online|
 
 
 ### IDE Plugins
