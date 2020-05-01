@@ -40,6 +40,12 @@ This section will contain resources that will help you with your projects, while
 |[Swagger](https://swagger.io/ "Swagger Tools") | Test and Document Your APIs With Ease |
 |[Kodular](https://www.kodular.io/ "Kodular") |Create Android Apps without coding online|
 
+### Useful Github Repos
+|  Repo Name | Purpose  |
+| :------------: | :------------: |
+| [handwritten](https://github.com/theSage21/handwritten "Handwritten")  | Plain text to handwriting generator. |
+| [selectize.js](https://github.com/theSage21/selectize.js "selectize.js")  | Selectize is the hybrid of a textbox and select box.  |
+
 
 ### IDE Plugins
 
