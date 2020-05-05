@@ -40,11 +40,21 @@ This section will contain resources that will help you with your projects, while
 |[Swagger](https://swagger.io/ "Swagger Tools") | Test and Document Your APIs With Ease |
 |[Kodular](https://www.kodular.io/ "Kodular") |Create Android Apps without coding online|
 
+
+###Frameworks/Libraries
+| Name | Purpose  | Compatibility  |
+| ------------ | ------------ | ------------ |
+| [Socket.io](https://socket.io/ "Socket.io")  | Socket.IO enables real-time, bidirectional and event-based communication.  |  Javascript |
+| [PassportJS](passportjs.org "PassportJS")  | Passport uses the concept of strategies to authenticate requests. Strategies can range from verifying username and password credentials, delegated authentication using OAuth  | NodeJS   |
+
+
+
 ### Useful Github Repos
 |  Repo Name | Purpose  |
 | :------------: | :------------: |
 | [handwritten](https://github.com/theSage21/handwritten "Handwritten")  | Plain text to handwriting generator. |
 | [selectize.js](https://github.com/theSage21/selectize.js "selectize.js")  | Selectize is the hybrid of a textbox and select box.  |
+|[BlogMan](https://github.com/adavijit/BlogMan "BlogMan")|BlogMan is a new social blogging platform where anybody can share their views and read other's opinion related to any topic.|
 
 
 ### IDE Plugins
