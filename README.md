@@ -55,7 +55,7 @@ This section will contain resources that will help you with your projects, while
 | [handwritten](https://github.com/theSage21/handwritten "Handwritten")  | Plain text to handwriting generator. |
 | [selectize.js](https://github.com/theSage21/selectize.js "selectize.js")  | Selectize is the hybrid of a textbox and select box.  |
 |[BlogMan](https://github.com/adavijit/BlogMan "BlogMan")|BlogMan is a new social blogging platform where anybody can share their views and read other's opinion related to any topic.|
-
+|[appy](https://appyapp.io/ "appy")|appy is a full featured boilerplate web app designed as an end to end solution for mvp development.|
 
 ### IDE Plugins
 
